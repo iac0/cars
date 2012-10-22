@@ -1,0 +1,68 @@
+.backGray {
+background-image: url('../img/gray_paper.png') !important;
+background-position: initial initial;
+background-repeat: initial initial;	
+	
+}
+
+.backTire {
+background-image: url('../img/tire.png') !important;
+background-position: initial initial;
+background-repeat: initial initial;
+}
+.backSilver {
+background-image: url('../img/silver_scales.png') !important;
+background-position: initial initial;
+background-repeat: initial initial;
+}
+
+/*---------------------------------*/
+/* 7. Social Media
+/*---------------------------------*/
+.social_icons {list-style: none;}
+.social_icons li {float: left;width:32px;height:32px;margin:0 12px 12px 0;padding:0;}
+.social_icons a {float: left;width:32px;height:32px;display:block;border:0;text-decoration:none;outline:none;text-indent:-9999em;}
+.social_icons .rss {background:url(../img/sprite.png) -786px -27px no-repeat;}
+.social_icons .twitter {background:url(../img/sprite.png) -857px -27px no-repeat;}
+.social_icons .facebook {background:url(../img/sprite.png) -822px -27px no-repeat;}
+.social_icons .flickr {background:url(../img/sprite.png) -893px -27px no-repeat;}
+.social_icons .youtube {background:url(../img/sprite.png) -929px -27px no-repeat;}
+.social_icons .linkedin {background:url(../img/sprite.png) -964px -27px no-repeat;}
+.social_icons .foursquare {background:url(../img/sprite.png) -1000px -27px no-repeat;}
+.social_icons .delicious {background:url(../img/sprite.png) -1035px -27px no-repeat;}
+.social_icons .digg {background:url(../img/sprite.png) -1071px -27px no-repeat;}
+
+.modern_preload_full, .shadow_preload_full {width: 922px;height: 201px;}
+.modern_preload_portrait_full, .shadow_preload_portrait_full {width: 612px;height: 792px;}
+.modern_preload_portrait_thumb, .shadow_preload_portrait_thumb {width: 275px;height: 355px;}
+.modern_preload_regular, .shadow_preload_regular {width: 703px;height: 201px;}
+.modern_preload_small, .shadow_preload_small {width: 493px;height: 201px;}
+.modern_preload_two_col_large, .shadow_preload_two_col_large{width: 437px;height: 234px;}
+.modern_preload_two_col_small, .shadow_preload_two_col_small{width: 324px;height: 180px;}
+.modern_preload_three_col_large, .shadow_preload_three_col_large{width: 275px;height: 145px;}
+.modern_preload_three_col_small, .shadow_preload_three_col_small{width: 202px;height: 113px;}
+.modern_preload_four_col_large, .shadow_preload_four_col_large{width: 190px;height: 111px;}
+.modern_preload_four_col_small, .shadow_preload_four_col_small{width: 135px;height: 76px;}
+
+
+.modern_img_frame {background: url(../img/image-sprite.png) 0px 0px no-repeat;margin-bottom: 6px;}
+/* portraits */
+.modern_portrait_full {width: 630px;height: 836px;background: url(images/_global/image-frame-portrait-modern.png) 0px 0px no-repeat !important;margin-bottom: 6px;}
+.modern_portrait_thumb {width: 293px;height: 389px;background: url(images/_global/image-frame-portrait-modern.png) -631px 0px no-repeat !important;margin-bottom: 6px;}
+
+/* banners */
+.modern_banner_full{width: 940px;height: 245px;background-position: -3px -857px !important;}
+.modern_banner_regular{width: 720px;height: 240px;background-position: 0px -1354px !important;}
+.modern_banner_small{width: 510px;height: 240px;background-position: -5px -1844px !important;}
+
+/* 2 cols */
+.modern_two_col_large{width: 455px;height: 272px;background-position: 0px 0px !important;}
+.modern_two_col_small{width: 342px;height: 217px;background-position: -5px -630px !important;}
+
+/* 3 cols */
+.modern_three_col_large{width: 293px;height: 179px;background-position: -1px -279px !important;}
+.modern_three_col_small{width: 220px;height: 144px;background-position: -224px -465px !important;}
+
+/* 4 cols */
+.modern_four_col_large{width: 208px;height: 140px;background-position: -2px -465px !important;}
+.modern_four_col_small{width: 152px;height: 102px;background-position: -302px -300px !important;}
